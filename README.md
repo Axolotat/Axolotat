@@ -1,6 +1,10 @@
 <p align="left""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axolotat" alt="mszeles" /></a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotat&show_icons=true&locale=en&layout=compact" alt="axolotat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axolotat&show_icons=true&locale=en" alt="mszeles" /></p>
+
 <!--
 **Axolotat/Axolotat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
