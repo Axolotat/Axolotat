@@ -1,18 +1,8 @@
-<!--
-<p align="left""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axolotat" alt="mszeles" /></a> </p>
-
-</br>
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotat&show_icons=true&locale=en&layout=compact" alt="axolotat" /></p>
-
-</br>
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=axolotat&show_icons=true&locale=en" alt="mszeles" /></p>
--->
-
 Welcome to my GitHub repository!
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="240" />
+<img align="left" src="./img/picture.png" alt="Made with picrew" width="260" />
 
-```csharp
+```
 axolotat@github
 -------------------------
 OS: Manjaro Linux x86_64
@@ -21,13 +11,16 @@ Location: Paris, FR
 Graduated: Gobelins (Master Design et Management de l Innovation Interactive  2019)
 Learning: Python, data science, japanese, german
 Languages: FR, EN, RU
-Hobbies: Learning, reading, Gaming
 Mastodon: @axolotat@hachyderm.io
+🧗 🚶 🚴 🐱 🐇 🍙 🍔 🍕 🧋 🏔️ 🏖️ ⛵ 🎮 🎨 🧩 🎸 🎹 🎻 💻 🎬 📖
 ```
 
 <br/>
-<br/>
-<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=axolotat&column=8&theme=monokai&no-frame=true&no-bg=true"/>
+</a>
+
 <br/>
 
 ### Tech Stack
