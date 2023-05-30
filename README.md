@@ -1,6 +1,6 @@
 Welcome to my GitHub repository!
 
-<img align="left" src="./img/picture.png" alt="Made with picrew" width="260" />
+<img align="left" src="./img/picture.png" alt="Made with picrew" width="250" />
 
 ```
 axolotat@github
@@ -8,21 +8,13 @@ axolotat@github
 OS: Manjaro Linux x86_64
 Pronouns: She/They
 Location: Paris, FR
-Graduated: Gobelins (Master Design et Management de l Innovation Interactive  2019)
+Graduated: Gobelins 
+(Master Design et Management de l'Innovation Interactive 2019)
 Learning: Python, data science, japanese, german
 Languages: FR, EN, RU
 Mastodon: @axolotat@hachyderm.io
 🧗 🚶 🚴 🐱 🐇 🍙 🍔 🍕 🧋 🏔️ 🏖️ ⛵ 🎮 🎨 🧩 🎸 🎹 🎻 💻 🎬 📖
 ```
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=axolotat&column=8&theme=monokai&no-frame=true&no-bg=true"/>
-</a>
-
-<br/>
-
 ### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
