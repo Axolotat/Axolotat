@@ -1,6 +1,6 @@
 Welcome to my GitHub repository!
 
-<img align="left" src="./img/picture.png" alt="Made with picrew" width="250" />
+<img align="left" src="./img/picture.png" alt="Made with picrew" width="220" />
 
 ```
 axolotat@github
