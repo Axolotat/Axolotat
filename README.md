@@ -17,10 +17,10 @@ Mastodon: @axolotat@hachyderm.io
 ```
 ### Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![styledcomponents](https://img.shields.io/badge/-styledcomponents-000?&logo=styledcomponents)
+![styledcomponents](https://img.shields.io/badge/-styledcomponents-05122A?&logo=styledcomponents)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
