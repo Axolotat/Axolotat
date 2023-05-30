@@ -35,5 +35,4 @@ Mastodon: @axolotat@hachyderm.io
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ### Follow me </br>
-
-![Mastodon Follow](https://img.shields.io/mastodon/follow/110457542163072612?color=green&domain=https%3A%2F%2Fhachyderm.io&label=https%3A%2F%2Fhachyderm.io%2F%40axolotat&logo=mastodon&logoColor=white&style=flat-square)
+<a href='https://hachyderm.io/@axolotat'>![Mastodon Follow](https://img.shields.io/mastodon/follow/110457542163072612?color=green&domain=https%3A%2F%2Fhachyderm.io&label=https%3A%2F%2Fhachyderm.io%2F%40axolotat&logo=mastodon&logoColor=white&style=flat-square)</a>
